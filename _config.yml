@@ -1,10 +1,10 @@
 # Site settings
-title: Sh7ne Blog
+title: Sh7ne
 SEOTitle: Sh7ne的博客 | Sh7ne Blog
 header-img: img/home-bg.jpg
 email: Sh7ne@outlook.com
-description: "关于前端与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Front-End Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "Blog, 博客, 个人网站, 互联网, 前端, 设计, 产品"
+description: "Front-End UX Designer"
+keyword: "Blog, Web, UX, Web Design, Frontend, UI, 博客, 个人网站, 互联网, 前端, 设计, 产品"
 url: "https://Sh7ne.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -63,7 +63,7 @@ ga_domain: Sh7ne.com
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "等着改。"
+sidebar-about-description: "Never Settled"
 sidebar-avatar: /img/IMG_8434.JPG       # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
