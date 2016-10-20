@@ -15,7 +15,7 @@ tags:
 
 ## Before Everything
 
-Hux 的 Blog 就这么开通了。
+
 
 [skip the peptalk ](#build) 
 
