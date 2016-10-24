@@ -10,7 +10,7 @@ tags:
     - draft
 ---
 
-> “Do you have a portfolio?”
+> “Do you have a #portfolio?”
 
 
 ## Before Everything
@@ -21,14 +21,14 @@ tags:
 
 Just Graduated from the University of Western Ontario, London, Canada before July this year. Trying to seek a job related to UI/UX or Web designer. Evertime I inquire about a job on some job-posting-site, the first question they asked me is always the same. 
 
-"Do you hava a portfolio?"
+"Do you hava a #portfolio?"
 
 After serval times, I think I got to build one.
 
 
-Here is a link to my Porfolio Page which I haven't post a lot of content on it.
+Here is a link to my #Porfolio Page which I haven't post a lot of content on it.
 
-[Portfolio](http://sh7ne/portfolio)
+[#Portfolio](http://sh7ne/portfolio)
 
 
 <p id = "build"></p>
