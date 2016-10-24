@@ -28,7 +28,7 @@ After serval times, I think I got to build one.
 
 Here is a link to my *Porfolio* Page which I haven't post a lot of content on it.
 
-[*Portfolio*](http://sh7ne/portfolio)
+[*Portfolio*](http://sh7ne.com/portfolio)
 
 
 <p id = "build"></p>
