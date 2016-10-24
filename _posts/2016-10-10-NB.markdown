@@ -19,7 +19,7 @@ tags:
 
 [skip the superfluous words ](#build) 
 
-Just Graduated from the University of Western Ontario, London, Canada before July this year. Trying to seek a job related to UI/UX or Web designer. Evertime I inquire about a job on some job-posting-site, the first question they asked me is always the same. 
+Just Graduated from the University of Western Ontario, London, Canada before July this year. Trying to seek a job related to UI/UX or Web designer. Evertime I inquired about a job on some job-posting-site, the first question they asked me is always the same. 
 
 "Do you hava a *portfolio*?"
 
