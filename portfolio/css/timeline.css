@@ -64,10 +64,6 @@ body, html {
 	color: #a5a7aa;
 }
 
-/* The Duoshuo */
-.cbp_tmlabel .comment{
-	padding: 0 1.5em 0.5em;
-}
 
 /* The card */
 .cbp_tmtimeline > li .cbp_tmlabel {
@@ -190,9 +186,9 @@ body{
 	background: #fafafa;
 }
 header{
-	background: #6ca8fb;
+	background: #a4c2c4;
 	text-align: center;
-	height: 620px;
+	height: 660px;
 	min-width: 100%;
 	padding: 5em 0px !important;
 	position: relative;
