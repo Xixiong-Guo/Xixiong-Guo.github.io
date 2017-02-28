@@ -5,10 +5,9 @@
 <script>
 $(document).ready(function(){
 	var rNumber; 
-	console.log(rNumber);
     $("input").keydown(function(){
         rNumber = $("input").val();
-        $("a#haha").text(rNumber);
+        $("a#haha").text("https://www.services.citizenship.gov.on.ca/pnp_enu/dynamicform/application/edit/en/"+rNumber);
         $("a#haha").attr("href", "https://www.services.citizenship.gov.on.ca/pnp_enu/dynamicform/application/edit/en/"+rNumber);
             console.log(rNumber); 
     });
@@ -24,8 +23,11 @@ $(document).ready(function(){
 <h3>3. Persenal Application Form: </h3>
 <input type="text" id ="textbox" />
 <br>
+<h4>Please input a Space ("空格") at the end</h4>
 <br>
-<a href="#" id="haha">1-0X0X0X</a>
+<a href="#" id="haha">https://www.services.citizenship.gov.on.ca/pnp_enu/dynamicform/application/edit/en/1-0X0X0X</a>
+<br>
+<h4>This Number is the last string in the link redirected when you click your case number in eFile Portal Page</h4>
 <br>
 <h3>4. Auto Refresh Extension: </h3>
 <a href="https://chrome.google.com/webstore/detail/auto-refresh-plus/ohfjpkccecpdfkpmfocndhepolhljfhg">Auto Refresh Extension</a>
