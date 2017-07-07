@@ -46,7 +46,7 @@ source env/bin/activate # Active Venv "env"
 
 此时就可以愉快的使用各种 pip 了， 我们可以 Run 一下
 
-```
+```python
     pip --version  # Version of pip & Python
 ```
 
