@@ -11,9 +11,9 @@ tags: Python Venv Tutorial draft
 
 # Python 3.4+ & Virtual env
 ![Python logo](https://www.python.org/static/img/python-logo.png)
-##  Python Virtual Environment
+#  Python Virtual Environment
 
-#### 这是一个给小白的虚拟环境傻瓜使用指南
+### 这是一个给小白的虚拟环境傻瓜使用指南
 
 Python 3.3 之后自带了 Virtual Environment， 就不必再去pip install virtualenv 用法实际上还是一样的。
 
@@ -23,9 +23,9 @@ Python 3.3 之后自带了 Virtual Environment， 就不必再去pip install vir
 
 既然是Python 3.3 之后就自带了 Venv， 为什么标题是 Python 3.4+呢，这是因为 3.3 八本自带的 Venv 默认并没有安装 pip ， 仍需手动安装，其实就这么点区别，3.4 之后就改进了，默认自带，方便之后的操作。3.6 之后的生成语句稍有变化，之后的版本肯定以此为准，本文也按照 3.6 版本语法为例。
 
-#### 先写中文的 在 Posix 环境下 (Mac, Linux, Unix) 的，cd 到自己的 Project 目录下
+### 先写中文的 在 Posix 环境下 (Mac, Linux, Unix) 的，cd 到自己的 Project 目录下
 
-## 如何生成
+# 如何生成
 
 ```python
 python3 -m venv env  # create new environment in "env" folder
