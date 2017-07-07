@@ -30,7 +30,7 @@ Python 3.3 之后自带了 Virtual Environment， 就不必再去pip install vir
 ```python
 python3 -m venv env  # create new environment in "env" folder
 ```
-这里的 env 是自己定义的你的 Venv 的名字，也是创建的文件夹名称
+这里的 env 是自己定义的你的 Venv 的名字，也是创建的文件夹名称
 
 下面 Activate Venv
 
@@ -38,7 +38,7 @@ python3 -m venv env  # create new environment in "env" folder
 source env/bin/activate # Active Venv "env"
 ```
 
-成功 Activate Venv 后，Terminal 的用户名前会自动加上 (env) 你的名字
+成功 Activate Venv 后，Terminal 的用户名前会自动加上 (env) 你的名字
 
 ```
     (env) User: Project User$:
@@ -50,7 +50,7 @@ source env/bin/activate # Active Venv "env"
     pip --version  # Version of pip & Python
 ```
 
-可以看到 Venv中的 pip 是 Venv 中的， 并且版本是与用来生成 Venv 的 Python 版本一致。
+可以看到 Venv中的 pip 是 Venv 中的， 并且版本是与用来生成 Venv 的 Python 版本一致。
 
 查看目前安装了的 dependencies
 
@@ -63,7 +63,7 @@ source env/bin/activate # Active Venv "env"
 ```python
     pip install -r requirements.txt # Install project dependencies
 ```
-在用完 Venv 后，Deactivate 的方式也非常简单，直接相同目录下运行 
+在用完 Venv 后，Deactivate 的方式也非常简单，直接相同目录下运行
 
 ```
     deactivate
