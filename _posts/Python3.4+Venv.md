@@ -6,8 +6,7 @@ date:       2017-07-07 02:02:00
 author:     "Sh7ne"
 header-img: "img/post-bg-000.jpg"
 catalog: true
-tags: Python Venv Tutorial 
-    - draft
+tags: Python Venv Tutorial draft
 ---
 
 # Python 3.4+ & Virtual env
