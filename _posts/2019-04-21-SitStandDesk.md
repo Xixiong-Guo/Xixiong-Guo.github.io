@@ -74,6 +74,10 @@ tags:  draft DIY
 
 
 
+# Future
+
 我未来计划给桌子再加上无线充电功能，自己买一个wireless 的coil，给手机和耳机充电。
+
+# End
 
 先就这样，望多交流。
