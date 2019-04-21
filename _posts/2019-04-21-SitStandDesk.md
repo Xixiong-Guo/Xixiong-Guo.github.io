@@ -54,9 +54,7 @@ tags:  draft DIY
 # 桌子搭配的配件
 1. [IKEA SIGNUM](https://www.ikea.com/ca/en/catalog/products/30200253/)
 
-![IEKA SIGNUM](https://www.ikea.com/ca/en/images/products/signum-cable-management-horizontal-gray__0256614_PE400752_S4.JPG)
 
-如图，便宜实用的理线器
 
 2. [APC Performance SurgeArrest, 11 Outlets with 2 USB Charging Ports](https://www.costco.ca/APC-Performance-SurgeArrest%2c-11-Outlets-with-2-USB-Charging-Ports.product.100308126.html)
 
