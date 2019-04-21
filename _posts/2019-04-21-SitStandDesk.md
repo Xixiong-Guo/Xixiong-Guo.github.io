@@ -52,23 +52,23 @@ tags:  draft DIY
 略
 
 # 桌子搭配的配件
-0. [IKEA SIGNUM](https://www.ikea.com/ca/en/catalog/products/30200253/)
+1. [IKEA SIGNUM](https://www.ikea.com/ca/en/catalog/products/30200253/)
 
 ![IEKA SIGNUM](https://www.ikea.com/ca/en/images/products/signum-cable-management-horizontal-gray__0256614_PE400752_S4.JPG)
 
 如图，便宜实用的理线器
 
-1. [APC Performance SurgeArrest, 11 Outlets with 2 USB Charging Ports](https://www.costco.ca/APC-Performance-SurgeArrest%2c-11-Outlets-with-2-USB-Charging-Ports.product.100308126.html)
+2. [APC Performance SurgeArrest, 11 Outlets with 2 USB Charging Ports](https://www.costco.ca/APC-Performance-SurgeArrest%2c-11-Outlets-with-2-USB-Charging-Ports.product.100308126.html)
 
-这个可以mount在桌面下面，给桌上所有设备供电，结合0用
+这个可以mount在桌面下面，给桌上所有设备供电，结合1用
 
-2. [Universal Headphone Stand Hanger](https://www.amazon.ca/Universal-Headphone-JOTO-Silicone-Sennheiser/dp/B01FVT0L8A/ref=sr_1_8?crid=32F3W7KRMWQRT&keywords=earphones+stand&qid=1555819063&s=gateway&sprefix=earphon%2Caps%2C159&sr=8-8)
+3. [Universal Headphone Stand Hanger](https://www.amazon.ca/Universal-Headphone-JOTO-Silicone-Sennheiser/dp/B01FVT0L8A/ref=sr_1_8?crid=32F3W7KRMWQRT&keywords=earphones+stand&qid=1555819063&s=gateway&sprefix=earphon%2Caps%2C159&sr=8-8)
 
-这个可以挂这种包耳的耳机，同时离充电口也很近，结合0，1用
+这个可以挂这种包耳的耳机，同时离充电口也很近，结合1，2用
 
 ![Eapphones Stand](https://images-na.ssl-images-amazon.com/images/I/61HngZ7EoKL._SL1000_.jpg)
 
-3. [Adhesive Magnetic Cable Clip](https://www.amazon.ca/gp/product/B01DPGW22Y/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
+4. [Adhesive Magnetic Cable Clip](https://www.amazon.ca/gp/product/B01DPGW22Y/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 
 简单来讲，可以将平时常用的线头磁吸在桌面的侧面或者是边缘下方，方便整洁
 
