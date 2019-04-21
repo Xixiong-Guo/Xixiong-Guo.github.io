@@ -62,7 +62,7 @@ tags:  draft DIY
 
 这个可以mount在桌面下面，给桌上所有设备供电，结合0用
 
-2. Universal Headphone Stand Hanger
+2. [Universal Headphone Stand Hanger](https://www.amazon.ca/Universal-Headphone-JOTO-Silicone-Sennheiser/dp/B01FVT0L8A/ref=sr_1_8?crid=32F3W7KRMWQRT&keywords=earphones+stand&qid=1555819063&s=gateway&sprefix=earphon%2Caps%2C159&sr=8-8)
 
 这个可以挂这种包耳的耳机，同时离充电口也很近，结合0，1用
 
