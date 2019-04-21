@@ -81,11 +81,11 @@ service-worker: true
 # Friends
 #friends: [
 #    {
-#        title: "Su",
-#        href: "http://su.gallery/"
+#        title: "Something",
+#        href: "http://something.com/"
 #    },{
-#        title: "乱序",
-#        href: "http://mida.re/"
+#        title: "aha",
+#        href: "http://aha.aha/"
 #    }
        
 #]
