@@ -41,7 +41,7 @@ tags:  draft DIY
 
 也有很多网友用的[IKEA Counter Top](https://www.ikea.com/ca/en/catalog/products/50335208/)， 高大上而且性价比高的选择。
 
-Tips: 面板的选择可以先去IEKA As Is区域 看看，很多时候有不错的折扣。
+Tips: 面板的选择可以先去IKEA As Is区域 看看，很多时候有不错的折扣。
 
 具体产品信息请自行IKEA Search。
 
