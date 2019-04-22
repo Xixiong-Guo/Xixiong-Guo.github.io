@@ -26,7 +26,9 @@ tags:  draft DIY
 
 链接如下，有白色黑色两种好几代好几种产品供君选择，主要看的还是尺寸和承重，都合适没必要买最贵的。
 
-[Single Motor](https://www.primecables.ca/p-357587-cab-et101-bk-electric-sit-to-stand-adjustable-desk-riser-frame-table-top-not-included-black-primecables#sku372428)
+[Sit-Stand Single-Motor Height Adjustable ADR Desk Frame](https://www.primecables.ca/p-357587-cab-et101-bk-electric-sit-to-stand-adjustable-desk-riser-frame-table-top-not-included-black-primecables#sku372428)
+
+[Sit-Stand Dual-Motor Height Adjustable ADR Desk Frame](https://www.primecables.ca/p-362358-cab-m02-23r-bk-sit-stand-dual-motor-height-adjustable-adr-desk-frame-electric-black-primecables)
 
 
 # Tabletop的购买
@@ -38,6 +40,8 @@ tags:  draft DIY
 这种纸板最大的问题是上下都是薄木板覆盖，也就是说无法抵御像剪刀尖坠落这样的punchture伤害。
 
 也有很多网友用的[IKEA Counter Top](https://www.ikea.com/ca/en/catalog/products/50335208/)， 高大上而且性价比高的选择。
+
+Tips: 面板的选择可以先去IEKA As Is区域 看看，很多时候有不错的折扣。
 
 具体产品信息请自行IKEA Search。
 
@@ -77,7 +81,7 @@ tags:  draft DIY
 
 # Future
 
-我未来计划给桌子再加上无线充电功能，自己买一个wireless 的coil，给手机和耳机充电。
+我未来计划给桌子再加上无线充电功能，自己买一个wireless cahrger的coil，给手机和耳机充电。
 
 # End
 
