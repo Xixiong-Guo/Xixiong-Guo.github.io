@@ -26,11 +26,11 @@ tags:  draft DIY
 
 链接如下，有白色黑色两种好几代好几种产品供君选择，主要看的还是尺寸和承重，都合适没必要买最贵的。
 
-[CA]: [Sit-Stand Single-Motor Height Adjustable ADR Desk Frame](https://www.primecables.ca/p-357587-cab-et101-bk-electric-sit-to-stand-adjustable-desk-riser-frame-table-top-not-included-black-primecables#sku372428)
+**CA** [Sit-Stand Single-Motor Height Adjustable ADR Desk Frame](https://www.primecables.ca/p-357587-cab-et101-bk-electric-sit-to-stand-adjustable-desk-riser-frame-table-top-not-included-black-primecables#sku372428)
 
-[CA]: [Sit-Stand Dual-Motor Height Adjustable ADR Desk Frame](https://www.primecables.ca/p-362358-cab-m02-23r-bk-sit-stand-dual-motor-height-adjustable-adr-desk-frame-electric-black-primecables)
+**CA** [Sit-Stand Dual-Motor Height Adjustable ADR Desk Frame](https://www.primecables.ca/p-362358-cab-m02-23r-bk-sit-stand-dual-motor-height-adjustable-adr-desk-frame-electric-black-primecables)
 
-[US]: [VIVO Black Electric Stand Up Desk Frame Workstation](https://www.amazon.com/VIVO-Workstation-Ergonomic-Adjustable-DESK-V102E/dp/B071KGDGNK)
+**US** [VIVO Black Electric Stand Up Desk Frame Workstation](https://www.amazon.com/VIVO-Workstation-Ergonomic-Adjustable-DESK-V102E/dp/B071KGDGNK)
 
 目测美国贵，而且应该是同样的中国厂家贴牌。
 
