@@ -39,16 +39,16 @@ tags:  draft DIY
 
 这种纸板最大的问题是上下都是薄木板覆盖，也就是说无法抵御像剪刀尖坠落这样的punchture伤害。
 
-也有很多网友用的[IKEA Counter Top](https://www.ikea.com/ca/en/catalog/products/50335208/)， 高大上而且性价比高的选择。
+也有很多网友用的 [IKEA Counter Top](https://www.ikea.com/ca/en/catalog/products/50335208/)， 高大上而且性价比高的选择。
 
-Tips: 面板的选择可以先去IKEA As Is区域 看看，很多时候有不错的折扣。
+Tips: 面板的选择可以先去 IKEA "As Is" 区域看看，很多时候有不错的折扣。
 
-具体产品信息请自行IKEA Search。
+具体产品信息请自行 IKEA 网站 Search。
 
 
 # 安装需要的工具
 
-好像是需要一个 Impact Driver, 用来固定螺丝钉之类的东西。
+好像是需要一个 Impact Driver, 用来固定螺丝钉，自攻钉之类的东西。
 其余的就是家常的改锥，特殊的六棱改锥应该是随着Frame会带。
 
 # 安装
