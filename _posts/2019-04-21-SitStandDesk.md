@@ -16,6 +16,8 @@ tags:  draft DIY
 
 作为一个在家还要长期工作娱乐甚至学习的码农，一直觉得最好（Ergonomic）的姿态就是站着办公，可以避免久坐带来的很多问题。
 
+针对美国的朋友附上了美国的购买链接。
+
 # Frame的购买
 
 我目前在加拿大，是在PrimeCable买的Frame，东西很实在，价格我反正是比了很多了，基本最优，而且可以等折扣，或是亚马逊的折扣时候再买。
@@ -25,6 +27,8 @@ tags:  draft DIY
 这家做的这个Frame的电控系统挺好的，三档记忆，站/坐/躺着 三档可以一键切换，而且电机噪音不大。
 
 链接如下，有白色黑色两种好几代好几种产品供君选择，主要看的还是尺寸和承重，都合适没必要买最贵的。
+
+注意PrimeCable目前不往US Shipping，还请右转美亚。
 
 **CA** [Sit-Stand Single-Motor Height Adjustable ADR Desk Frame](https://www.primecables.ca/p-357587-cab-et101-bk-electric-sit-to-stand-adjustable-desk-riser-frame-table-top-not-included-black-primecables#sku372428)
 
