@@ -36,7 +36,7 @@ tags:  draft DIY
 
 # Tabletop的购买
 
-我目前用的是最廉价的 200mm X 50mm [IKEA LINNMON Tabletop] 
+我目前用的是最廉价的 200mm X 50mm **IKEA LINNMON Tabletop**
 [[CA]](https://www.ikea.com/ca/en/catalog/products/80251358/)
 [[US]](https://www.ikea.com/us/en/catalog/products/80251358/)
 
@@ -62,7 +62,7 @@ Tips: 面板的选择可以先去 IKEA "As Is" 区域看看，很多时候有不
 略
 
 # 桌子搭配的配件
-1. [IKEA SIGNUM] 
+1. **IKEA SIGNUM**
 [[CA]](https://www.ikea.com/ca/en/catalog/products/30200253/)
 [[US]](https://www.ikea.com/us/en/catalog/products/30200253/)
 
@@ -70,14 +70,14 @@ Tips: 面板的选择可以先去 IKEA "As Is" 区域看看，很多时候有不
 
     如图，便宜实用的理线器
 
-2. [APC Performance SurgeArrest, 11 Outlets with 2 USB Charging Ports]
+2. **APC Performance SurgeArrest, 11 Outlets with 2 USB Charging Ports**
 [[CA]](https://www.costco.ca/APC-Performance-SurgeArrest%2c-11-Outlets-with-2-USB-Charging-Ports.product.100308126.html)
 [[US]](https://www.amazon.com/dp/B017VXU6GG)
 
     这个可以mount在桌面下面，给桌上所有设备供电，结合1用。
     Mount 需要短自攻钉。
 
-3. [Universal Headphone Stand Hanger] 
+3. **Universal Headphone Stand Hanger**
 [[CA]](https://www.amazon.ca/dp/B01FVT0L8A)
 [[US]](https://www.amazon.com/dp/B01FVT0L8A)
 
@@ -86,7 +86,7 @@ Tips: 面板的选择可以先去 IKEA "As Is" 区域看看，很多时候有不
     如图，这个可以挂这种包耳的耳机，同时离充电口也很近，结合1，2用
 
 
-4. [Adhesive Magnetic Cable Clip] 
+4. **Adhesive Magnetic Cable Clip**
 [[CA]](https://www.amazon.ca/dp/B01DPGW22Y)
 [[US]](https://www.amazon.com/dp/B01DPGW22Y)
 
@@ -96,7 +96,7 @@ Tips: 面板的选择可以先去 IKEA "As Is" 区域看看，很多时候有不
 
 # Future
 
-我未来计划给桌子再加上无线充电功能，自己买一个wireless cahrger的coil，给手机和耳机充电。
+我未来计划给桌子再加上无线充电功能，自己从淘宝定的两个*Wireless cahrger的coil*已经在路上了，未来试试怎么装上给手机和AirPods无线充电。
 
 # End
 
