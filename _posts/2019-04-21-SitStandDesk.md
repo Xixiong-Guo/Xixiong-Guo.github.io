@@ -28,7 +28,7 @@ tags:  draft DIY
 
 链接如下，有白色黑色两种好几代好几种产品供君选择，主要看的还是尺寸和承重，都合适没必要买最贵的。
 
-注意PrimeCable目前不往US Shipping，还请右转美亚。
+*注意PrimeCable目前不往US Shipping，还请右转美亚*
 
 **CA** [Sit-Stand Single-Motor Height Adjustable ADR Desk Frame](https://www.primecables.ca/p-357587-cab-et101-bk-electric-sit-to-stand-adjustable-desk-riser-frame-table-top-not-included-black-primecables#sku372428)
 
