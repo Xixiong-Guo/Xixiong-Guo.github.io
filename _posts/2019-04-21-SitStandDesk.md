@@ -6,7 +6,7 @@ date:       2019-04-20 20:02:00
 author:     "Sh7ne"
 header-img: "img/post-bg-000.jpg"
 catalog: true
-tags:  draft DIY
+tags: draft DIY
 ---
 
 # 如何自制一个Sit-Stand Desk
