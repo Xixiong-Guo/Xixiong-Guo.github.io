@@ -14,10 +14,10 @@ baseurl: ""                  # for example, '/blog' if your blog hosted on 'host
 RSS: false
 #weibo_username:     owenshine
 #zhihu_username:     UWOSh7ne
-#github_username:    Sh7ne
+github_username:    Xixiong-Guo
 #twitter_username:   UWOSh7ne
 #facebook_username:  UWOSh7ne
-#linkedin_username:  Sh7ne           #linkedin.com/in/your username here#
+linkedin_username:  xixiongguo           #linkedin.com/in/your username here#
 
 
 
@@ -62,7 +62,7 @@ ga_domain: Xixiong-Guo.github.io
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: ""
-#sidebar-avatar: /img/IMG_8434.JPG       # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/IMG_8434.JPG       # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
