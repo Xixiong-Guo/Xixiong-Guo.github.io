@@ -1,23 +1,23 @@
 # Site settings
-title: Sh7ne
-SEOTitle: Developer | Sh7ne Blog
+title: Xixiong Guo
+SEOTitle: Xixiong Blog
 header-img: img/home-bg-o.jpg
-email: Sh7ne@outlook.com
-description: "Designer"
-keyword: "Blog,Design, Frontend, UX, Developer, FullStack, 博客, 个人网站, 互联网, 前端, 设计, 产品"
-url: "https://Sh7ne.com"              # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+email: guoxixiong1991@gmail.com
+description: "Aspiring data scientist"
+keyword: "data science"
+url: "https://Xixiong-Guo.github.io"              # your host, for absolute URL
+baseurl: ""                  # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     owenshine
-zhihu_username:     UWOSh7ne
-github_username:    Sh7ne
-twitter_username:   UWOSh7ne
-facebook_username:  UWOSh7ne
-linkedin_username:  Sh7ne           #linkedin.com/in/your username here#
+#weibo_username:     owenshine
+#zhihu_username:     UWOSh7ne
+#github_username:    Sh7ne
+#twitter_username:   UWOSh7ne
+#facebook_username:  UWOSh7ne
+#linkedin_username:  Sh7ne           #linkedin.com/in/your username here#
 
 
 
@@ -55,7 +55,7 @@ disqus_username: Sh7ne
 
 # Google Analytics
 ga_track_id: ''            # Format: UA-xxxxxx-xx
-ga_domain: Sh7ne.com
+ga_domain: Xixiong-Guo.github.io
 
 
 
